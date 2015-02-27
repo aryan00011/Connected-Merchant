@@ -1,0 +1,38 @@
+{
+  "ProjectName": "TravelersApp",
+  "ProjectGuid": "bb02dbc3-fefa-4058-ba14-5a98d48acd21",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TravelersApp",
+  "DisplayName": "TravelersApp",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{057cff83-a701-4e44-87d7-728432435097}",
+  "WP8ProductID": "{1ca22a5f-bcee-490c-af88-8f2df2b16259}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
