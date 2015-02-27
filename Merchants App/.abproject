@@ -1,0 +1,38 @@
+{
+  "ProjectName": "Merchants App",
+  "ProjectGuid": "51180b33-bef2-47cd-aa37-5386e49c6eb9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MerchantsApp",
+  "DisplayName": "Merchants App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d4a1617d-66b2-4edb-90b5-1a8b7394fd93}",
+  "WP8ProductID": "{d4ab9af7-bb39-491c-b14e-eb165751b2cd}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
