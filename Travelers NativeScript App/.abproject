@@ -1,0 +1,26 @@
+{
+  "ProjectName": "Travelers NativeScript App",
+  "ProjectGuid": "e881f8c5-254b-477f-85ef-a3eff69fa4d4",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TravelersNativeScriptApp",
+  "DisplayName": "Travelers NativeScript App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "0.9.0",
+  "Framework": "NativeScript"
+}
